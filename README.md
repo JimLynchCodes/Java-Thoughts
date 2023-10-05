@@ -1,6 +1,11 @@
 # Java Thoughts
 Guides and learnings related to Java. ☕️ 
 
+
+## Basics
+
+- [Functions in Java](https://github.com/JimLynchCodes/Java-Thoughts/blob/main/Funk-Shins-Java.md)
+
 - [Java CLI Tools](https://github.com/JimLynchCodes/Java-Thoughts/blob/main/CLI-Tools.md)
 
 ---
