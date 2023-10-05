@@ -1,0 +1,43 @@
+
+# Java Code Coverage Reports With JaCoCo
+
+
+
+
+
+## Adding Code Coverage To An Existing Gradle Project
+
+Make these two changes to your `build.gradle` file:
+
+1) Add `id 'jacoco'` to the plugins section: 
+
+```groovy
+plugins {
+    id "java"
+    id 'jacoco'
+}
+```
+
+2) At the bottom of the file add this block of groovy configuration code:
+
+```groovy
+jacocoTestReport {
+    reports {
+        xml.required = false
+        csv.required = false
+        html.outputLocation = layout.buildDirectory.dir('jacocoHtml')
+    }
+}
+```
+
+Then run the command to generate the report: 
+```bash
+gradle build jacocoTestReport
+```
+
+View the report by opening the `/build/jacocoHtml/index.html` file in your browser.
+
+Examples:
+
+
+
