@@ -1,9 +1,8 @@
-
 # Java Code Coverage Reports With JaCoCo
 
+Code coverage reports show you _code that has not been executed during by your suite of unit tests!_
 
-
-
+[JavaCoCo](https://www.eclemma.org/jacoco/) is a popular tool in the Java ecosystem for easily generating nice code coverage reports. 
 
 ## Adding Code Coverage To An Existing Gradle Project
 
@@ -39,5 +38,12 @@ View the report by opening the `/build/jacocoHtml/index.html` file in your brows
 
 Examples:
 
+Directory:
+<img src="https://github.com/JimLynchCodes/Java-Thoughts/blob/main/JavaCoCo-directory.png"/>
 
+Java Class Summary Page:
+<img src="https://github.com/JimLynchCodes/Java-Thoughts/blob/main/JavaCoCo-class-summary.png"/>
+
+Java Class Implentation Page:
+<img src="https://github.com/JimLynchCodes/Java-Thoughts/blob/main/JavaCoCo-class-source-code.png"/>
 
