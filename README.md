@@ -15,6 +15,10 @@ Guides and learnings related to Java. ☕️
 
 - [Code Coverage Reports With JavaCoCo (Gradle)](https://github.com/JimLynchCodes/Java-Thoughts/blob/main/JaCoCo-Gradle.md)
 
+- [PITest Mutation Testing (Gradle)](Gradle)
+
+- "Don't test what you don't _own."_
+
 ### Load Testing
 
 - [JMeter In Java Code](https://octoperf.com/blog/2023/03/29/jmeter-in-code/#conclusion)
