@@ -13,7 +13,9 @@ count = 2;     // Update to new value
 
 // Compiler error when assigning a different type
 // count = false;
-Java is an object-oriented language and requires all functions to be defined in a class. The class keyword is used to define a class.
+```
+
+Java is an [object-oriented language](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html) and requires all functions to be defined in a class. The class keyword is used to define a class.
 
 class Calculator {
     // ...
