@@ -13,3 +13,7 @@ Guides and learnings related to Java. ☕️
 ### Load Testing
 
 - [JMeter In Java Code](https://octoperf.com/blog/2023/03/29/jmeter-in-code/#conclusion)
+
+### Syntax
+
+- Note that regular strings in Java should be wrapped in doubelquotes. Single quote strings in Java are reserved exclusively for _unclosed character literal._
