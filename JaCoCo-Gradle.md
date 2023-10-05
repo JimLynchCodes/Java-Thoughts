@@ -55,17 +55,17 @@ View the report by opening the `/build/jacocoHtml/index.html` file in your brows
 <br/>
 
 Directory:
-<img src="https://github.com/JimLynchCodes/Java-Thoughts/blob/main/JavaCoCo-directory.png"/>
+<img src="images//JavaCoCo-directory.png"/>
 
 <br/>
 
 Java Class Summary Page:
-<img src="https://github.com/JimLynchCodes/Java-Thoughts/blob/main/JavaCoCo-class-summary.png"/>
+<img src="images/JavaCoCo-class-summary.png"/>
 
 <br/>
 
 Java Class Implentation Page:
-<img src="https://github.com/JimLynchCodes/Java-Thoughts/blob/main/JavaCoCo-class-source-code.png"/>
+<img src="images/JavaCoCo-class-source-code.png"/>
 
 <br/>
 
