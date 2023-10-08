@@ -17,7 +17,7 @@ Guides and learnings related to Java. ☕️
 
 - [PITest Mutation Testing (Gradle)](https://github.com/JimLynchCodes/Java-Thoughts/blob/main/PITest-Mutation-Testing-Gradle.md)
 
-- "Don't test what you don't _own."_
+- "Don't test what you don't _own."_ - a smart person
 
 ### Load Testing
 
