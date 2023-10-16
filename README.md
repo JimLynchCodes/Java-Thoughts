@@ -1,5 +1,5 @@
 # Java Thoughts
-Guides and learnings related to Java. ☕️ 
+Documenting my learnings and adventures with Java. ☕️ 
 
 
 ### Basics
