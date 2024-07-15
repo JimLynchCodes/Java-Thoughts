@@ -15,7 +15,7 @@ Documenting my learnings and adventures with Java. ☕️
 
 - [Code Coverage Reports With JavaCoCo (Gradle)](https://github.com/JimLynchCodes/Java-Thoughts/blob/main/JaCoCo-Gradle.md)
 
-- [PITest Mutation Testing (Gradle)](https://github.com/JimLynchCodes/Java-Thoughts/blob/main/PITest-Mutation-Testing-Gradle.md)
+- [PITest Mutation Testing (Gradle)](https://github.com/JimLynchCodes/Java-Thoughts/blob/main/PITest-Mutation-Testing-Gradle.md)  <-- (💡 a cool thing!)
 
 - "Don't test what you don't _own."_ - a smart person
 
