@@ -1,5 +1,5 @@
 # Java Thoughts
-Documenting my learnings and adventures with Java. ☕️ 
+Documenting my learnings and adventures with Java! ☕️ 
 
 
 ### Basics
