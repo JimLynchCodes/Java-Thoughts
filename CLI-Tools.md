@@ -1,8 +1,8 @@
 # Java CLI Tools
-sd
+
 There are many cli tools in the java ecosystem, but I've broken them down into five categories that are relevant to my backend Java development:
 
-1) Java Runtime and SDKwee
+1) Java Runtime and SDK
 2) Build Tools & Dependency Management
 4) Testing Tools
 5) Spring Framework
@@ -71,4 +71,3 @@ Many types of tests...
 ## Spring CLI
 
 Spring is a framework that models backend development with an MVC architecture. "Spring Boot" refers to the spring cli and _starters_ that allow developers to "boot up" new spring projects quickly and easily.
-
